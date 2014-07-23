@@ -3,6 +3,7 @@ layout: post
 title: First Post 
 ---
 
-h1. {{page.title}}
+##{{page.title}}
+
 This is my first post. Check back and see what happens.
 
